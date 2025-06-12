@@ -1,6 +1,6 @@
 # LEVEL1
 ## 1.1 Introduction To Git Commits
-![alt text](image.png)
+![alt text](wanitcha/image-1.png)
 ![alt text](image-1.png)
 ## 1.2 Branching In Git
 ![alt text](image-2.png)
