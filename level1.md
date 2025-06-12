@@ -1,4 +1,4 @@
-# LEVEL1
+# LEVEL 1
 ## 1.1 Introduction To Git Commits
 ![alt text](wanitcha/image.png)
 ![alt text](wanitcha/image-1.png)
